@@ -1,6 +1,5 @@
 <template>
-  <h1>App.vue</h1>
-안녕하세요\햐하하
+  <RouterView />
 </template>
 
 <script>
